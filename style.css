@@ -7,15 +7,15 @@ body{
     color: white;
     padding: 0px;
     margin: 0px;
-    text-align: center;
-    font-weight: 900;
+    text-align: left;
+    font-weight: bold;
 }
 
 .subtitulo{
     color: white;
     padding: 0px;
     margin: 0px;
-    text-align: center;
+    text-align: left;
     font-weight: 900;
 }
 
